@@ -35,194 +35,106 @@ function googleTranslateElementInit() {
         </div>
     </section>
   
-              <section class="pricing-section ptb-100 gray-light-bg">
+    <section class="pricing-section ptb-100 gray-light-bg">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-8">
                     <div class="section-heading text-center mb-5">
-                        <h2>Investment Plans</h2>
+                        <h2>Plans</h2>
                         <p class="lead">We understand the needs of our customers very much that our investment plans covers the widest range of benefits.</p>
                     </div>
                 </div>
             </div>
-            <div class="row justify-content-center">
-                
-                                
-                <div class="col-lg-4 col-md mb-4">
-                    <div class="card text-center single-pricing-pack">
-                        <div class="pt-4"><h5>Starter Plan</h5><span class="badge badge-success">Investment</span></div>
-                        <div class="card-header py-4 border-0 pricing-header">
-                            <div class="h1 text-center mb-0">
-                                <p class="pricing-rate">10 <sup>%</sup><span>24 Hours</span></p>
-                                
-                            </div>
-                        </div>
-                        <div class="card-body bg-transparent affix text-white">
-                            <ul class="list-unstyled text-left text-sm mb-4 pricing-feature-list">
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Min</span><b class="float-right">USD 100.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Max</span><b class="float-right">USD 500.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Profit</span><b class="float-right">10% For 24 Hours</b></li>
-                                <!-- <li><span class="ti-check-box mr-2 color-secondary"></span><span>Referral Bonus</span><b class="float-right">10%</b></li>-->
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Duration</span><b class="float-right">24 Hours</b></li>
-                            </ul>
-                            <a href="register.html" class="btn outline-white-btn p-2">Get Started Now</a>
-                        </div>
-                    </div>
-                </div>
-                
-                                
-                <div class="col-lg-4 col-md mb-4">
-                    <div class="card text-center single-pricing-pack">
-                        <div class="pt-4"><h5>Premium Plan</h5><span class="badge badge-success">Investment</span></div>
-                        <div class="card-header py-4 border-0 pricing-header">
-                            <div class="h1 text-center mb-0">
-                                <p class="pricing-rate">20 <sup>%</sup><span>For 42 Hours</span></p>
-                                
-                            </div>
-                        </div>
-                        <div class="card-body bg-transparent affix text-white">
-                            <ul class="list-unstyled text-left text-sm mb-4 pricing-feature-list">
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Min</span><b class="float-right">USD 600.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Max</span><b class="float-right">USD 9000.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Profit</span><b class="float-right">20% For 42 Hours</b></li>
-                                 <!-- <li><span class="ti-check-box mr-2 color-secondary"></span><span>Referral Bonus</span><b class="float-right">10%</b></li>-->
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Duration</span><b class="float-right">42 Hours</b></li>
-                            </ul>
-                            <a href="register.html" class="btn outline-white-btn p-2">Get Started Now</a>
-                        </div>
-                    </div>
-                </div>
-                
-                                
-                <div class="col-lg-4 col-md mb-4">
-                    <div class="card text-center single-pricing-pack">
-                        <div class="pt-4"><h5>Gold Plan</h5><span class="badge badge-success">Investment</span></div>
-                        <div class="card-header py-4 border-0 pricing-header">
-                            <div class="h1 text-center mb-0">
-                                <p class="pricing-rate">30 <sup>%</sup><span>For Three Days</span></p>
-                                
-                            </div>
-                        </div>
-                        <div class="card-body bg-transparent affix text-white">
-                            <ul class="list-unstyled text-left text-sm mb-4 pricing-feature-list">
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Min</span><b class="float-right">USD 10,000.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Max</span><b class="float-right">USD 15,000.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Profit</span><b class="float-right">30% For Three Days</b></li>
-                               <!-- <li><span class="ti-check-box mr-2 color-secondary"></span><span>Referral Bonus</span><b class="float-right">10%</b></li>-->
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Duration</span><b class="float-right">Three Days</b></li>
-                            </ul>
-                            <a href="register.html" class="btn outline-white-btn p-2">Get Started Now</a>
-                        </div>
-                    </div>
-                </div>
-                
-                
-                 <div class="col-lg-4 col-md mb-4">
-                    <div class="card text-center single-pricing-pack">
-                        <div class="pt-4"><h5>Investors Plan</h5><span class="badge badge-success">Investment</span></div>
-                        <div class="card-header py-4 border-0 pricing-header">
-                            <div class="h1 text-center mb-0">
-                                <p class="pricing-rate">40 <sup>%</sup><span>For One Week</span></p>
-                                
-                            </div>
-                        </div>
-                        <div class="card-body bg-transparent affix text-white">
-                            <ul class="list-unstyled text-left text-sm mb-4 pricing-feature-list">
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Min</span><b class="float-right">USD 20,000.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Max</span><b class="float-right">USD 50,000.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Profit</span><b class="float-right">40% For One Week</b></li>
-                               <!-- <li><span class="ti-check-box mr-2 color-secondary"></span><span>Referral Bonus</span><b class="float-right">10%</b></li>-->
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Duration</span><b class="float-right">One Week</b></li>
-                            </ul>
-                            <a href="register.html" class="btn outline-white-btn p-2">Get Started Now</a>
-                        </div>
-                    </div>
-                </div>
-                
-                
-                 <div class="col-lg-4 col-md mb-4">
-                    <div class="card text-center single-pricing-pack">
-                        <div class="pt-4"><h5>Mining Plan</h5><span class="badge badge-success">Investment</span></div>
-                        <div class="card-header py-4 border-0 pricing-header">
-                            <div class="h1 text-center mb-0">
-                                <p class="pricing-rate">50 <sup>%</sup><span>For  One Month</span></p>
-                                
-                            </div>
-                        </div>
-                        <div class="card-body bg-transparent affix text-white">
-                            <ul class="list-unstyled text-left text-sm mb-4 pricing-feature-list">
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Min</span><b class="float-right">USD 1500.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Max</span><b class="float-right">USD 5000.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Profit</span><b class="float-right">50% For One Month</b></li>
-                               <!-- <li><span class="ti-check-box mr-2 color-secondary"></span><span>Referral Bonus</span><b class="float-right">10%</b></li>-->
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Duration</span><b class="float-right"> One Month</b></li>
-                            </ul>
-                            <a href="register.html" class="btn outline-white-btn p-2">Get Started Now</a>
-                        </div>
-                    </div>
-                </div>
-                
-                
-                 <div class="col-lg-4 col-md mb-4">
-                    <div class="card text-center single-pricing-pack">
-                        <div class="pt-4"><h5>Shareholders Plan</h5><span class="badge badge-success">Investment</span></div>
-                        <div class="card-header py-4 border-0 pricing-header">
-                            <div class="h1 text-center mb-0">
-                                <p class="pricing-rate">70 <sup>%</sup><span>For  Three Month</span></p>
-                                
-                            </div>
-                        </div>
-                        <div class="card-body bg-transparent affix text-white">
-                            <ul class="list-unstyled text-left text-sm mb-4 pricing-feature-list">
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Min</span><b class="float-right">USD 200,000.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Max</span><b class="float-right">USD 200,000.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Profit</span><b class="float-right">70% For Three Month</b></li>
-                               <!-- <li><span class="ti-check-box mr-2 color-secondary"></span><span>Referral Bonus</span><b class="float-right">10%</b></li>-->
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Duration</span><b class="float-right">Three Month</b></li>
-                            </ul>
-                            <a href="register.html" class="btn outline-white-btn p-2">Get Started Now</a>
-                        </div>
-                    </div>
-                </div>
-                                
-                
-            </div>
-            
-            <div class="row justify-content-center">
-                
-                                
-               <!-- <div class="col-lg-4 col-md mb-4">
-                    <div class="card text-center single-pricing-pack">
-                        <div class="pt-4"><h5>Diamond Plan</h5><span class="badge badge-warning">Retirement Investment</span></div>
-                        <div class="card-header py-4 border-0 pricing-header">
-                            <div class="h1 text-center mb-0">
-                                
-                            </div>
-                        </div>
-                        <div class="card-body bg-transparent affix text-white">
-                            <ul class="list-unstyled text-left text-sm mb-4 pricing-feature-list">
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Min</span><b class="float-right">USD 50,000.00</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Max</span><b class="float-right">USD INFINITY</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Profit</span><b class="float-right">50-100 %</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Referral Bonus</span><b class="float-right">10%</b></li>
-                                <li><span class="ti-check-box mr-2 color-secondary"></span><span>Note</span><b class="float-right">Can also be paid by installments: $10,000 monthly and can be withdrawn every end of the year </b></li>
-                            </ul>
-                            <a href="register" class="btn outline-white-btn p-2">Get Started Now</a>
-                        </div>
-                    </div>-->
-                </div>
-                
-                                
+            <?php
+                        $sql1 = mysqli_query($con, "SELECT * FROM `fx_plan_category` order by category_order ASC");   //checking no of investments
+                        $rows1 = mysqli_num_rows($sql1) ;
 
-                                
-                
-            </div>
-                        <div class="action-btns mt-3 text-center">
-                <a href="plans.html" class="btn btn-success">View All Plans</a>
-                                </div>
+                        if($rows1<1){?>
+                           <div class="alert alert-warning" role="alert">
+                           <span class="alert-icon"><i class="ni ni-fat-remove"></i></span>
+                           <span class="alert-text">No Plans Yet</span>
+                           </div>
+                        <?php }else{
+
                         
+                           while($row11 = mysqli_fetch_array($sql1)){
+                              $categoryid =$row11["ID"];
+                           $category_name =$row11["category_name"];
+                           $category_order =$row11["category_order"];
+                           $datecreated =$row11["datecreated"];
+
+                           echo "<div class='row'>
+                                    <div class='col-md-12'>
+                                       <div class='full'>
+                                          <div class='heading_main text_align_center'>";
+                                             echo "<h3 style='margin-top:30px;'>$category_name <span class='theme_color'>Plans</span></h3>";
+                                    echo "</div>
+                                       </div>
+                                    </div>
+                                 </div>";
+                                 echo "<div class='row justify-content-center'>";
+                           
+                           $sql12 = mysqli_query($con, "SELECT * FROM `fx_investments_plans` WHERE plan_category='$category_name'  order by plan_order ASC");   //checking no of investments
+                           $rows12 = mysqli_num_rows($sql12) ;
+
+                           if($rows12<1){
+                              echo "<div class='alert alert-warning' role='alert'>
+                              <span class='alert-icon'><i class='ni ni-fat-remove'></i></span>
+                              <span class='alert-text'>No $category_name plan yet</span>
+                              </div>";
+                           }else{
+                              while($row12 = mysqli_fetch_array($sql12)){
+                                 $planid =$row12["ID"];
+                                 $plan_name =$row12["plan_name"];
+                                 $plan_min =$row12["plan_min"];
+                                 $plan_max =$row12["plan_max"];
+                                 $plan_roi =$row12["plan_roi"];
+                                 $plan_roi_type =$row12["plan_roi_type"];
+                                 $plan_order =$row12["plan_order"];
+                                 $plan_duration =$row12["plan_duration"];
+                                 $plan_status =$row12["plan_status"];
+                                 $plan_category =$row12["plan_category"];
+
+                                 $plan_min = number_format($plan_min);
+                                 if($plan_max == ""){
+                                 $plan_max = "UNLIMITED";
+                                 }else{
+                                    $plan_max = number_format($plan_max);
+                                 }
+                                 echo "<div class='col-lg-4 col-md mb-4'>
+                                    <div class='card text-center single-pricing-pack'>
+                                        <div class='pt-4'><h5>$plan_name PLAN</h5><span class='badge badge-success'>$category_name</span></div>
+                                        <div class='card-header py-4 border-0 pricing-header'>
+                                            <div class='h1 text-center mb-0'>
+                                                <p class='pricing-rate'>$plan_roi <sup>%</sup><span>Profit $plan_roi_type for $plan_duration Days</span></p>
+                                                
+                                            </div>
+                                        </div>
+                                        <div class='card-body bg-transparent affix text-white'>
+                                            <ul class='list-unstyled text-left text-sm mb-4 pricing-feature-list'>
+                                                <li><span class='ti-check-box mr-2 color-secondary'></span><span>Min</span><b class='float-right'>USD $plan_min</b></li>
+                                                <li><span class='ti-check-box mr-2 color-secondary'></span><span>Max</span><b class='float-right'>USD $plan_max</b></li>
+                                                <li><span class='ti-check-box mr-2 color-secondary'></span><span>Profit</span><b class='float-right'>$plan_roi% Profit $plan_roi_type for $plan_duration Days</b></li>
+                                                <!-- <li><span class='ti-check-box mr-2 color-secondary'></span><span>Referral Bonus</span><b class='float-right'>10%</b></li>-->
+                                                <li><span class='ti-check-box mr-2 color-secondary'></span><span>Duration</span><b class='float-right'>$plan_duration Day/Days</b></li>
+                                            </ul>
+                                            <a href='signup' class='btn outline-white-btn p-2'>Get Started Now</a>
+                                        </div>
+                                    </div>
+                                </div>";
+                                 
+                              }
+                              
+                           }
+                           echo "</div>"; //end the row for each plan category
+                        }
+                     }
+                  ?>
         </div>
-    </section>        
+        <div class="action-btns mt-3 text-center">
+                <a href="plans.php" class="btn btn-success">View All Plans</a>
+        </div>
+    </section> 
         
         
         
