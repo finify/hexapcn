@@ -1,7 +1,7 @@
 <?php
 
 $sitename = "Pinecapitalnetwork";
-$siteurl = "http://localhost/hexapcn/";
+$siteurl = "https://pinecapitalnetwork.com/";
 $sitetitle = "Pinecapitalnetwork - investing made easy";
 
 $sitelogo = $siteurl."images/pinecapitalnetworklogo.png";
@@ -11,7 +11,7 @@ $sitenumber = "+234234324343";
 
 //Administrator
 $siteauthor = "pinecapitalnetwork";
-$site_support_email = "admin@pinecapitalnetwork.com";
+$site_support_email = "support@pinecapitalnetwork.com";
 $site_admin_email = "admin@pinecapitalnetwork.com";
 $location = "";
 
