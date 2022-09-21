@@ -9,3 +9,4 @@ kycproof
 PHPMailer
 home/assets
 includes/dbconnect.php
+includes/mail.php
